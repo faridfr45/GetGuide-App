@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.GetGuide">
         <activity
+            android:name=".onboarding.LoginActivity"
+            android:exported="true" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".InstructionActivity"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
