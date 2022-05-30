@@ -16,7 +16,7 @@ class SecondScreen : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         // Inflate the layout for this fragment
-        val view = inflater.inflate(R.layout.fragment_first_screen, container, false)
+        val view = inflater.inflate(R.layout.fragment_second_screen, container, false)
 
         val viewPager = requireActivity().findViewById<ViewPager2>(R.id.viewPager)
         val nextButton = view.findViewById<Button>(R.id.nextButton)
