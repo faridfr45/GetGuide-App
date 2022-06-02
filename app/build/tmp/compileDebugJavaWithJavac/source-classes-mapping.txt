@@ -1,0 +1,20 @@
+com/bangkit/getguide/BuildConfig.java
+ com.bangkit.getguide.BuildConfig
+com/bangkit/getguide/databinding/FragmentViewPagerBinding.java
+ com.bangkit.getguide.databinding.FragmentViewPagerBinding
+com/bangkit/getguide/databinding/ActivityLoginBinding.java
+ com.bangkit.getguide.databinding.ActivityLoginBinding
+com/bangkit/getguide/databinding/ActivityHomeBinding.java
+ com.bangkit.getguide.databinding.ActivityHomeBinding
+com/bangkit/getguide/databinding/FragmentSecondScreenBinding.java
+ com.bangkit.getguide.databinding.FragmentSecondScreenBinding
+com/bangkit/getguide/databinding/FragmentThirdScreenBinding.java
+ com.bangkit.getguide.databinding.FragmentThirdScreenBinding
+com/bangkit/getguide/databinding/FragmentFirstScreenBinding.java
+ com.bangkit.getguide.databinding.FragmentFirstScreenBinding
+com/bangkit/getguide/databinding/ActivityRegisterBinding.java
+ com.bangkit.getguide.databinding.ActivityRegisterBinding
+com/bangkit/getguide/databinding/FragmentSplashBinding.java
+ com.bangkit.getguide.databinding.FragmentSplashBinding
+com/bangkit/getguide/databinding/ActivityMainBinding.java
+ com.bangkit.getguide.databinding.ActivityMainBinding

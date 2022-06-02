@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\GitHub\\GetGuide-App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register.xml",
+        "source": "D:\\GitHub\\GetGuide-App\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\GetGuide-App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_view_pager.xml",
+        "source": "D:\\GitHub\\GetGuide-App\\app\\src\\main\\res\\layout\\fragment_view_pager.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\GetGuide-App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "D:\\GitHub\\GetGuide-App\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\GetGuide-App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\GitHub\\GetGuide-App\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\GetGuide-App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_splash.xml",
+        "source": "D:\\GitHub\\GetGuide-App\\app\\src\\main\\res\\layout\\fragment_splash.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\GetGuide-App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_second_screen.xml",
+        "source": "D:\\GitHub\\GetGuide-App\\app\\src\\main\\res\\layout\\fragment_second_screen.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\GetGuide-App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_third_screen.xml",
+        "source": "D:\\GitHub\\GetGuide-App\\app\\src\\main\\res\\layout\\fragment_third_screen.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\GetGuide-App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home.xml",
+        "source": "D:\\GitHub\\GetGuide-App\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\GetGuide-App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_first_screen.xml",
+        "source": "D:\\GitHub\\GetGuide-App\\app\\src\\main\\res\\layout\\fragment_first_screen.xml"
+    }
+]
