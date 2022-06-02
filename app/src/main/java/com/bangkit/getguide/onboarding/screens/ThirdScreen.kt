@@ -1,14 +1,15 @@
 package com.bangkit.getguide.onboarding.screens
 
 import android.content.Context
+import android.content.Intent
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.Button
-import androidx.navigation.fragment.findNavController
 import com.bangkit.getguide.R
+import com.bangkit.getguide.authentication.LoginActivity
 
 class ThirdScreen : Fragment() {
 
@@ -19,11 +20,14 @@ class ThirdScreen : Fragment() {
         // Inflate the layout for this fragment
         val view = inflater.inflate(R.layout.fragment_third_screen, container, false)
 
-        val finihButton = view.findViewById<Button>(R.id.nextButton)
+        val finishButton = view.findViewById<Button>(R.id.nextButton)
 
-        finihButton.setOnClickListener {
-            findNavController().navigate(R.id.action_viewPagerFragment_to_loginActivity)
-            onBoardingFinished()
+        finishButton.setOnClickListener {
+//            onBoardingFinished()
+
+            val intent = Intent(requireContext(), LoginActivity::class.java)
+            startActivity(intent)
+            requireActivity().finish()
         }
 
         return view
